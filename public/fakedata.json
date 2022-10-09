@@ -1,0 +1,235 @@
+[
+    {
+      "_id": "634316dba51c8781b47ecffc",
+      "index": 0,
+      "guid": "d4174bb9-5e48-463e-8ab1-87c2d771abb4",
+      "isActive": false,
+      "picture": "https://i.ibb.co/d7LbpdH/Katie-Bell.jpg",
+      "eyeColor": "green",
+      "name": "Katie Bell",
+      "role": "Student",
+      "house": "Gryffindor"
+    },
+    {
+      "_id": "634316db7610f89b460f25a1",
+      "index": 1,
+      "guid": "e363c528-f82e-4e88-8739-5978a1de376a",
+      "isActive": false,
+      "picture": "https://i.ibb.co/KGsYR9C/Hannah-Abbott.jpg",
+      "eyeColor": "brown",
+      "name": "Hannah Abbott",
+      "role": "Student",
+      "house": "Hufflepuff"
+    },
+    {
+      "_id": "634316db842349e0431746b3",
+      "index": 2,
+      "guid": "fd62a564-7db9-4092-b08d-0d4b5b2469f7",
+      "isActive": false,
+      "picture": "https://i.ibb.co/0QqMcNG/Lavender-Brown.jpg",
+      "eyeColor": "brown",
+      "name": "Lavender Brown",
+      "role": "Student",
+      "house": "Gryffindor"
+    },
+    {
+      "_id": "634316db8cf63b512b3718c5",
+      "index": 3,
+      "guid": "cbba0875-dc4d-4971-8d6d-c9fc80812bcc",
+      "isActive": false,
+      "picture": "https://i.ibb.co/bLCFyqB/ChoChang.jpg",
+      "eyeColor": "brown",
+      "name": "Cho Chang",
+      "role": "Student",
+      "house": "Ravenclaw"
+    },
+    {
+      "_id": "634316dbbd4280985d70eb7b",
+      "index": 4,
+      "guid": "4fe94333-7b9d-49b0-8367-a1702bdf67f5",
+      "isActive": true,
+      "picture": "https://i.ibb.co/4Zh0YZ4/Nicolas-Flamel.jpg",
+      "eyeColor": "green",
+      "name": "Nicolas Flamel",
+      "role": "Alchemist",
+      "house": "CORPORANA"
+    },
+    {
+      "_id": "634316db799766b0a1c0cb63",
+      "index": 5,
+      "guid": "c2e2d997-aa71-432a-b8d3-8725f6199dce",
+      "isActive": true,
+      "picture": "https://i.ibb.co/5ntvTP0/Filius-Flitwick.jpg",
+      "eyeColor": "green",
+      "name": "Filius Flitwick",
+      "role": "Charms Master Head of Ravenclaw",
+      "house": "TURNABOUT"
+    },
+    {
+      "_id": "634316dbcbda8682ba7f867d",
+      "index": 6,
+      "guid": "7672be63-6db9-43eb-9d28-6c3f566a5dd1",
+      "isActive": false,
+      "picture": "https://i.ibb.co/pvhr7hD/Hermione-Granger.jpg",
+      "eyeColor": "brown",
+      "name": "Hermione Granger",
+      "role": "Student",
+      "house": "Gryffindor"
+    },
+    {
+      "_id": "634316db0b330bc1c8136623",
+      "index": 7,
+      "guid": "94a4f007-9b82-439c-bc84-452e6fdda923",
+      "isActive": true,
+      "picture": "https://i.ibb.co/3mnMBc2/Wilhelmina-Grubbly-Plank.jpg",
+      "eyeColor": "brown",
+      "name": "Wilhelmina Grubbly-Plank",
+      "role": "Professor of Care of Magical Creatures",
+      "house": "NEXGENE"
+    },
+    {
+      "_id": "634316db67dc0ee1e21fbffa",
+      "index": 8,
+      "guid": "5e8352db-ef35-4c64-9a24-478b7d777e75",
+      "isActive": true,
+      "picture": "https://i.ibb.co/G2T1VDB/Rubeus-Hagrid.jpg",
+      "eyeColor": "blue",
+      "name": "Rubeus Hagrid",
+      "role": "Hogwarts Gamekeeper",
+      "house": "CALLFLEX"
+    },
+    {
+      "_id": "634316db3664fb9a5d3b63ec",
+      "index": 9,
+      "guid": "884b7e59-a7fb-4b86-9924-ba442bd62da8",
+      "isActive": true,
+      "picture": "https://i.ibb.co/1TzfM0T/Rolanda-Hooch.jpg",
+      "eyeColor": "green",
+      "name": "Rolanda Hooch",
+      "role": "Flying Instructor Quidditch Referee",
+      "house": "VITRICOMP"
+    },
+    {
+      "_id": "634316db9f354db41bf098d5",
+      "index": 10,
+      "guid": "7bc0e3dc-19d3-4553-838e-d5d9b873f346",
+      "isActive": true,
+      "picture": "https://i.ibb.co/9tg56mL/Gilderoy-Lockhart.png",
+      "eyeColor": "green",
+      "name": "Gilderoy Lockhart",
+      "role": "Celebrity Author & Professor",
+      "house": "APEXIA"
+    },
+    {
+      "_id": "634316dbfba6882354444c5c",
+      "index": 11,
+      "guid": "0bec4787-954b-4dbd-9988-f4583f69f842",
+      "isActive": false,
+      "picture": "https://i.ibb.co/ZXsvtVW/Luna-Lovegood.jpg",
+      "eyeColor": "blue",
+      "name": "Luna Lovegood",
+      "role": "Student",
+      "house": "Ravenclaw"
+    },
+    {
+      "_id": "634316dbfd080f747a876881",
+      "index": 12,
+      "guid": "555e72f4-f7d6-4a3f-9eef-ff0008171452",
+      "isActive": false,
+      "picture": "https://i.ibb.co/KhF19g8/Neville-Longbottom.jpg",
+      "eyeColor": "brown",
+      "name": "Neville Longbottom",
+      "role": "Student",
+      "house": "Gryffindor"
+    },
+    
+    {
+      "_id": "634316dbf8380985f2dcf14d",
+      "index": 14,
+      "guid": "4a1148b8-8c73-4b44-8d75-9aa93e03bd6e",
+      "isActive": false,
+      "picture": "https://i.ibb.co/P5ZpvHZ/Draco-Mal.jpg",
+      "eyeColor": "brown",
+      "name": "Draco Malfoy",
+      "role": "Student",
+      "house": "Slytherin"
+    },
+    {
+      "_id": "634316dbfd55cebc9201ec24",
+      "index": 15,
+      "guid": "7bc83d1c-c3ce-429a-b2dc-de5607d5729e",
+      "isActive": true,
+      "picture": "https://i.ibb.co/X8Gnq78/Mc-Gonagall-screenshot.jpg",
+      "eyeColor": "blue",
+      "name": "Minerva McGonagall",
+      "role": "Transfiguration Professor",
+      "house": "COGENTRY"
+    },
+    {
+      "_id": "634316dbae3e21d450252591",
+      "index": 16,
+      "guid": "f5c20e9b-70ce-4d15-a50a-9510eb5256a8",
+      "isActive": false,
+      "picture": "https://i.ibb.co/yXhj4V5/Harry-Potter.jpg",
+      "eyeColor": "blue",
+      "name": "Harry Potter",
+      "role": "male",
+      "house": "Gryffindor"
+    },
+    {
+      "_id": "634316db9f64ebc9c09de9d7",
+      "index": 17,
+      "guid": "4d084eaa-329d-44cc-b23c-d13d98f082df",
+      "isActive": true,
+      "picture": "https://i.ibb.co/nnKsSrb/200px-Pomfrey.jpg",
+      "eyeColor": "blue",
+      "name": "Poppy Pomfrey",
+      "role": "female",
+      "house": "Matron & Healer"
+    },
+    {
+      "_id": "634316dbcd55d026d8f9c3df",
+      "index": 18,
+      "guid": "73ff5208-2b6a-4b36-a3f7-4bc2130712b8",
+      "isActive": true,
+      "picture": "https://i.ibb.co/hRLHF7L/Quirinus-Quirrell.jpg",
+      "eyeColor": "brown",
+      "name": "Quirinus Quirrell",
+      "role": "Defence Against the Dark Arts Professor",
+      "house": "BOSTONIC"
+    },
+    {
+      "_id": "634316db716837cb995908df",
+      "index": 19,
+      "guid": "50a243a7-fa71-4347-9444-ad61f62d0776",
+      "isActive": true,
+      "picture": "https://i.ibb.co/V9BcMnj/snape-640x480-71452776743.jpg",
+      "eyeColor": "brown",
+      "name": "Severus Snape",
+      "role": "Potion Master & Professor",
+      "house": "SEQUITUR"
+    },
+    {
+      "_id": "634316db0f2ff96c33bffbff",
+      "index": 20,
+      "guid": "e98db869-7961-4748-b4f5-1f20b28e2432",
+      "isActive": false,
+      "picture": "https://i.ibb.co/Lkj3FQs/Ginny-Weasley.jpg",
+      "eyeColor": "green",
+      "name": "Ginny Weasley",
+      "role": "male",
+      "house": "Gryffindor"
+    },
+    {
+      "_id": "634316db8c25dc669bc3d34d",
+      "index": 21,
+      "guid": "a4ccd97e-9f93-49ae-8bda-a20ec4a93563",
+      "isActive": false,
+      "picture": "https://i.ibb.co/LYq8FNT/Ron-Weasley-poster.jpg",
+      "eyeColor": "brown",
+      "name": "Ron Weasley",
+      "role": "female",
+      "house": "Gryffindor"
+    }
+    
+  ]

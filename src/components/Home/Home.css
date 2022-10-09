@@ -1,0 +1,6 @@
+.hero-container{
+    width: 100%;
+    background: url(../../../public/assets/hogwarts-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

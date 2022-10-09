@@ -1,0 +1,6 @@
+.history-container{
+    background: url('../../../public/assets/Harry-Potter-hogwarts-castle-t.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(25%);
+}
